@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Bangladesh Chapter**
 
-- 🤝 I’m looking for help with **Road Accident Safety**
+- 🤝 I’m looking for help with **My Ongoing Machine Learning Projects i.e.Road Accidents Safety**
 
 - 📫 How to reach me **R.rohitchavan724@gmail.com**
 
