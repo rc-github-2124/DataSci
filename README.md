@@ -8,7 +8,7 @@ I worked on this assignments during my Intership in AI Variant
 
 **Client:** React, Redux,
 
-**Server:** Python, Flask
+**Server:** Python, Flask,Machine Learning, Deep Learning
 
 
 ## Deployment
