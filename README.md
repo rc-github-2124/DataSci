@@ -1,7 +1,7 @@
 
-# Data Science Project
+# Data Science 
 
-I worked on this Project during my Intership in AI Variant
+I worked on this assignments during my Intership in AI Variant
 
 
 ## Tech Stack
